@@ -1,2 +1,2 @@
-PrizeTitle,DrawWeek,DrawYear,DrawMonth,DrawDay,Name,TicketNo,Prize,CardName,CardCode,CardNo
+PrizeTitle,DrawWeek,DrawYear,DrawMonth,DrawDay,Name,TicketNo,PrizeAmount,CardName,CardCode,CardNo
 Weekly Prize,1,2021,4,13,Test K.,A-1234567,1688,Queen of Hearts,queenh,32

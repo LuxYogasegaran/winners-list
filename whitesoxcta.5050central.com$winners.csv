@@ -1,2 +1,4 @@
 EventTitle,EventNo,DrawYear,DrawMonth,DrawDay,Name,TicketNo,PrizeAmount,CardName,CardCode,CardPosition
 Week 1,1,2021,4,13,Test K.,A-1234567,1688,Queen of Hearts,queenh,32
+Week 2,2,2021,4,20,Dundas T.,B-1234567,2397,Seven of Diamonds,sevend,26
+Week 3,3,2021,4,27,Charles M.,C-1234567,1956,Two of Spades,twos,18

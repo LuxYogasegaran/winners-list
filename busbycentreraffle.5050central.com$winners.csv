@@ -1,4 +1,4 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDate,DrawMonth,DrawYear
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
 Week 1,1,A-4965515,83,8 of Hearts,eighth,52,Name,31,12,2022
 Week 2,2,A-3525375,94,8 of Spades,eights,26,Name,31,12,2022
 Week 3,3,C-7575654,81,4 of Spades,fours,19,Name,31,12,2022

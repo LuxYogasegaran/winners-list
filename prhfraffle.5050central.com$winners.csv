@@ -1,18 +1,18 @@
 
 EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
 Week 1,1,A-6740123,1638,King of Diamonds,kingd,2,Tammy A.,15,06,2021
-Week 2,2,B-7165854,2050,King of Clubs,kingc,5,Tanya P.,31,06,2021
-Week 3,3,C-4189462,2268,Queen of Clubs,queenc,11,Connie D.,31,06,2021
-Week 4,4,D-5072723,2634,2 of Spades,twos,24,Marlene B.,31,06,2021
-Week 5,5,E-3616311,2431,6 of Spades,sixs,9,Brenda F.,31,06,2021
-Week 6,6,F-3015414,2579,3 of Clubs,threec,27,Jennifer R.,31,06,2021
-Week 7,7,G-7597513,2520,Queen of Spades,queens,13,Caitlin D.,31,06,2021
-Week 8,8,H-3196056,2507,7 of Hearts,sevenh,51,Barry A.,31,06,2021
-Week 9,9,I-6725795,2558,5 of Spades,fives,31,Scott S.,31,06,2021
-Week 10,10,J-3904723,2644,8 of Clubs,eightc,34,Terry P.,31,06,2021
-Week 11,11,K-4083276,3029,3 of Hearts,threes,41,Patrick C.,31,06,2021
-Week 12,12,L-4973233,2965,6 of Hearts,sixh,10,Deb D.,31,06,2021
-Week 13,13,M-5399167,2709,8 of Spades,eights,22,Jaclyn F.,31,06,2021
-Week 14,14,N-2427861,3056,5 of Clubs,fivec,42,Rick P.,31,06,2021
-Week 15,15,O-2140037,3130,4 of Diamonds,fourd,25,Kevin P.,31,06,2021
-Week 16,16,P-1344097,3994,Jack of Diamonds,jackd,18,Bev C.,31,06,2021
+Week 2,2,B-7165854,2050,King of Clubs,kingc,5,Tanya P.,30,06,2021
+Week 3,3,C-4189462,2268,Queen of Clubs,queenc,11,Connie D.,30,06,2021
+Week 4,4,D-5072723,2634,2 of Spades,twos,24,Marlene B.,30,06,2021
+Week 5,5,E-3616311,2431,6 of Spades,sixs,9,Brenda F.,30,06,2021
+Week 6,6,F-3015414,2579,3 of Clubs,threec,27,Jennifer R.,30,06,2021
+Week 7,7,G-7597513,2520,Queen of Spades,queens,13,Caitlin D.,30,06,2021
+Week 8,8,H-3196056,2507,7 of Hearts,sevenh,51,Barry A.,30,06,2021
+Week 9,9,I-6725795,2558,5 of Spades,fives,31,Scott S.,30,06,2021
+Week 10,10,J-3904723,2644,8 of Clubs,eightc,34,Terry P.,30,06,2021
+Week 11,11,K-4083276,3029,3 of Hearts,threes,41,Patrick C.,30,06,2021
+Week 12,12,L-4973233,2965,6 of Hearts,sixh,10,Deb D.,30,06,2021
+Week 13,13,M-5399167,2709,8 of Spades,eights,22,Jaclyn F.,30,06,2021
+Week 14,14,N-2427861,3056,5 of Clubs,fivec,42,Rick P.,30,06,2021
+Week 15,15,O-2140037,3130,4 of Diamonds,fourd,25,Kevin P.,30,06,2021
+Week 16,16,P-1344097,3994,Jack of Diamonds,jackd,18,Bev C.,30,06,2021

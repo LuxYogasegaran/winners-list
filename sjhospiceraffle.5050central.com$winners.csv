@@ -1,9 +1,9 @@
 EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
-Week 1,1,A-2092132,1478,10 of Diamonds,tend,24,Name Name,10,6,2021
-Week 2,2,B-1474825,648,8 of Diamonds,eightd,14,Name Name,17,6,2021
-Week 3,3,C-2423487,678,5 of Clubs,fivec,9,Name Name,24,6,2021
-Week 4,4,D-2203927,404,King of Diamonds,kingd,13,Name Name,1,7,2021
-Week 5,5,E-2942219,320,7 of Hearts,sevenh,17,Name Name,8,7,2021
-Week 6,6,F-2113719,386,2 of Diamonds,twod,29,Name Name,15,7,2021
-Week 7,7,G-2192393,318,10 of Spades,tens,18,Name Name,22,7,2021
-Week 8,8,H-1636821,312,Queen of Spades,queens,4,Nick S.,29,7,2021
+Week 1,1,A-2092132,1478,10 of Diamonds,tend,24,David B.,10,6,2021
+Week 2,2,B-1474825,648,8 of Diamonds,eightd,14,Lisa R.,17,6,2021
+Week 3,3,C-2423487,678,5 of Clubs,fivec,9,Roger S.,24,6,2021
+Week 4,4,D-2203927,404,King of Diamonds,kingd,13,Ruth V.,1,7,2021
+Week 5,5,E-2942219,320,7 of Hearts,sevenh,17,Jim C.,8,7,2021
+Week 6,6,F-2113719,386,2 of Diamonds,twod,29,Ruth M.,15,7,2021
+Week 7,7,G-2192393,318,10 of Spades,tens,18,Kimberly W.,22,7,2021
+Week 8,8,H-1636821,312,Queen of Spades,queens,4,Marcotte D.,29,7,2021

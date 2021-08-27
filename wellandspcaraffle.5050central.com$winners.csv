@@ -1,16 +1,29 @@
 EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
-Week 1,1,AA-2451285,1112,5 of Diamonds,fived,2,Lahn,16,2,2020
-Week 2,2,AA-6861342,1134,6 of Hearts,sixh,7,Tamara,23,2,2021
-Week 3,3,CC-7172334,1214,Jack of Hearts,jackh,39,Brenda,2,3,2021
-Week 4,4,DD-1301710,982,8 of Diamonds,eightd,24,Carolyn,9,3,2021
-Week 5,5,EE-1494310,1236,Jack of Spades,jacks,8,Tracy B.,16,3,2021
-Week 6,6,FF-5423763,1510,3 of Spades,threes,43,Terry S.,23,3,2021
-Week 7,7,GG-4459056,1758,Queen of Hearts,queenh,21,Sue,30,3,2021
-Week 8,8,HH-1512071,1706,2 of Diamonds,twod,49,Pete M.,6,4,2021
-Week 9,9,II-5960339,1388,Ace of Hearts,aceh,1,Kristine,13,4,2021
-Week 10,10,JJ-5787372,1452,King of Diamonds,kingd,44,Tashina,20,4,2021
-Week 11,11,KK-3324569,1956,7 of Spades,sevens,15,Susan,27,4,2021
-Week 12,12,LL-7884576,1676,4 of Hearts,fourh,13,Marjolaine,4,5,2021
-Week 13,13,MM-5728423,1910,7 of Diamonds,sevend,13,Marjolaine,11,5,2021
-Week 14,14,NN-4056360,1558,Jack of Diamonds,jackd,28,Ron,18,5,2021
-Week 15,15,OO-2383431,1372,4 of Diamonds,fourd,47,Sherry,25,5,2021
+Week 1,1,AA-2451285,1112,5 of Diamonds,fived,2,Lahn,31,12,2022
+Week 2,2,AA-6861342,1134,6 of Hearts,sixh,7,Tamara,31,12,2022
+Week 3,3,CC-7172334,1214,Jack of Hearts,jackh,39,Brenda,31,12,2022
+Week 4,4,DD-1301710,982,8 of Diamonds,eightd,24,Carolyn,31,12,2022
+Week 5,5,EE-1494310,1236,Jack of Spades,jacks,8,Tracy B.,31,12,2022
+Week 6,6,FF-5423763,1510,3 of Spades,threes,43,Terry S.,31,12,2022
+Week 7,7,GG-4459056,1758,Queen of Hearts,queenh,21,Sue,31,12,2022
+Week 8,8,HH-1512071,1706,2 of Diamonds,twod,49,Pete M.,31,12,2022
+Week 9,9,II-5960339,1388,Ace of Hearts,aceh,1,Kristine,31,12,2022
+Week 10,10,JJ-5787372,1452,King of Diamonds,kingd,44,Tashina,31,12,2022
+Week 11,11,KK-3324569,1956,7 of Spades,sevens,15,Susan,31,12,2022
+Week 12,12,LL-7884576,1676,4 of Hearts,fourh,13,Marjolaine,31,12,2022
+Week 13,13,MM-5728423,1910,7 of Diamonds,sevend,14,Sue,31,12,2022
+Week 14,14,NN-4056360,1558,Jack of Diamonds,jackd,28,Ron,31,12,2022
+Week 15,15,OO-2383431,1372,4 of Diamonds,fourd,47,Sherry,31,12,2022
+Week 16,16,PP-4376833,1716,6 of Spades,sixs,3,Samantha,31,12,2022
+Week 17,17,QQ-7639702,1580,5 of Clubs,fivec,23,Melisa,31,12,2022
+Week 18,18,RR-2385249,1432,10 of Clubs,tenc,6,Brandon,31,12,2022
+Week 19,19,SS-4686363,1248,9 of Hearts,nineh,4,Danielle F.,31,12,2022
+Week 20,20,TT-1460393,1258,6 of clubs,sixc,11,Patricia W.,31,12,2022
+Week 21,21,UU-6410360,1288,King of Spades,kings,29,S.H.,31,12,2022
+Week 22,22,VV-6019766,1568,9 of Clubs,ninec,42,Michelle J.,31,12,2022
+Week 23,23,VV-1344102,1370,Queen of Clubs,queenc,25,Don D.,31,12,2022
+Week 24,24,WW-5711187,1744,8 of Clubs,eightc,5,Trisha L.,31,12,2022
+Week 25,25,XX-3214556,1602,3 of Diamonds,threed,50,Barbara A.,31,12,2022
+Week 26,26,YY-3614887,1788,9 of Diamonds,nined,27,Marlena L.,31,12,2022
+Week 27,27,ZZ-3569073,1606,5 of Spades,fives,32,Dave W.,31,12,2022
+Week 28,28,AAA-5453740,1646,7 of Hearts,sevenh,16,Dawn E.,31,12,2022

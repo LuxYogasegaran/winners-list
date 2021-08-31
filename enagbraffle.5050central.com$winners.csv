@@ -1,0 +1,37 @@
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+Week 1,1,A-4629042,55,7 of Hearts,sevenh,7,,31,12,2022
+Week 2,2,B-5887903,82,Jack of Diamonds,jackd,13,,31,12,2022
+Week 3,3,C-3163587,20,10 of Clubs,tenc,47,,31,12,2022
+Week 4,4,D-4391696,25,Queen of Clubs,queenc,27,,31,12,2022
+Week 5,5,E-6464815,41,9 of Clubs,ninec,24,,31,12,2022
+Week 6,6,F-2481738,8,7 of Spades,sevens,9,,31,12,2022
+Week 7,7,G-1530419,122,9 of Spades,nines,15,,31,12,2022
+Week 8,8,H-5736876,59,10 of Hearts,tenh,34,,31,12,2022
+Week 9,9,I-2914170,125,8 of Diamonds,eightd,20,,31,12,2022
+Week 10,10,J-1472527,130,9 of Hearts,nineh,3,,31,12,2022
+Week 11,11,K-7005345,77,10 of Spades,tens,42,,31,12,2022
+Week 12,12,L-1832036,64,2 of Diamonds,twod,25,,31,12,2022
+Week 13,13,M-2619196,70,8 of Spades,eights,31,,31,12,2022
+Week 14,14,N-2298046,66,6 of Diamonds,sixd,10,,31,12,2022
+Week 15,15,O-5297650,23,Ace of Hearts,aceh,17,,31,12,2022
+Week 16,16,P-2463051,66,2 of Hearts,twoh,2,,31,12,2022
+Week 17,17,Q-3721176,84,3 of Diamonds,threed,19,,31,12,2022
+Week 18,18,R-4354190,77,5 of Hearts,fiveh,52,,31,12,2022
+Week 19,19,S-6256454,103,6 of Clubs,sixc,1,,31,12,2022
+Week 20,20,S-1456829,31,7 of Diamonds,sevend,39,,31,12,2022
+Week 21,21,T-7223586,24,5 of Spades,fives,33,,31,12,2022
+Week 22,22,U-5519823,146,3 of Hearts,threeh,49,,31,12,2022
+Week 23,23,V-3205847,140,8 of hearts,eighth,36,,31,12,2022
+Week 24,24,W-5261358,101,Queen of Diamonds,queend,4,,31,12,2022
+Week 25,25,X-3198306,129,4 of Clubs,fourc,16,,31,12,2022
+Week 26,26,Y-1437862,93,2 of Spades,twos,18,,31,12,2022
+Week 27,27,Z-6145065,125,3 of Spades,threes,26,,31,12,2022
+Week 28,28,A-2249630,44,Queen of Spades,queens,43,,31,12,2022
+Week 29,29,B-2351203,118,Ace of Diamonds,aced,5,,31,12,2022
+Week 30,30,C-2605758,105,9 of Diamonds,nined,44,,31,12,2022
+Week 31,31,D-4062642,76,King of Hearts,kingh,51,,31,12,2022
+Week 32,32,E-1412657 ,57,Ace of Clubs,acec,8,,31,12,2022
+Week 33,33,F-1203591 ,113,6 of hearts,sixh,14,,31,12,2022
+Week 34,34,G-6141447 ,121,Jack of hearts,jackh,21,,31,12,2022
+Week 35,35,H-5722123 ,91,4 of Diamonds,fourd,11,,31,12,2022
+Week 36,36,I-1715553 ,105,5 of Diamonds,fived,22,,31,12,2022

@@ -1,0 +1,25 @@
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+Week 1,1,AA-3453401,4614,King of Clubs,kingc,29,Leo McGinty,17,3,2021
+Week 2,2,BB-4277708,4294,8 of Clubs,eightc,32,James Freeland,24,3,2021
+Week 3,3,CC-3751603,3802,King of Diamonds,kingd,12,Dennis Robitaille,31,3,2021
+Week 4,4,DD-9049283,3704,Ace of Clubs,acec,48,Joelle Redsky,7,4,2021
+Week 5,5,EE-2289682,3328,Queen of Hearts,queenh,15,Fred Gardiner,14,4,2021
+Week 6,6,FF-3620609,4698,Queen of Spades,queens,17,Greg McCaw,21,4,2021
+Week 7,7,GG-5242039,4500,5 of Clubs,fivec,11,Roxanne Pickering,28,4,2021
+Week 8,8,HH-1202320,5672,5 of Diamonds,fived,5,Dwight Phillips,5,5,2021
+Week 9,9,II-3399700,4414,10 of Clubs,tenc,42,Mark Haug,12,5,2021
+Week 10,10,JJ-6745172,8372,6 of Hearts,sixh,9,Gregory Wesley,19,5,2021
+Week 11,11,KK-1143659,7352,8 of Diamonds,eightd,31,Ryan Hamersma,26,5,2021
+Week 12,12,LL-7281104,7304,4 of Clubs,fourc,13,Randy Beamish,2,6,2021
+Week 13,13,MM-6805550,8406,5 of Spades,fives,7,Owen Green,9,6,2021
+Week 14,14,MM-9962853,8308,8 of Spades,eights,39,Bernadette,16,6,2021
+Week 15,15,OO-9160639,7926,10 of Diamonds,tend,33,Marilyn,23,6,2021
+Week 16,16,PP-3040193,7306,2 of Hearts,twoh,25,Alexandra Percy,30,6,2021
+Week 17,17,QQ-6474140,6600,3 of Diamonds,threed,21,Yvonne R Budreau,7,7,2021
+Week 18,18,RR-1618025,7716,6 of Diamonds,sixd,23,Angelo Serrentino,14,7,2021
+Week 19,19,SS-8678868,7508,2 of Diamonds,twod,37,Michelle Warne,21,7,2021
+Week 20,20,TT-7911809,9378,9 of Diamonds,nined,16,Robert Koktan,28,7,2021
+Week 21,21,UU-9381747,8326,9 of Spades,nines,1,Greg C.,4,8,2021
+Week 22,22,VV-2006744,9584,4 of Diamonds,fourd,27,Richard S.,11,8,2021
+Week 23,23,WW-8333168,9340,Ace of Diamonds,aced,45,Andrew L.,18,8,2021
+Week 24,24,XX-6766793,8496,7 of Spades,sevens,10,James M.,25,8,2021

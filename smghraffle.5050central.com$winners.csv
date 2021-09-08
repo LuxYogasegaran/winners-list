@@ -1,0 +1,22 @@
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+Week 1,1,BA-6049088,325,Jack of Spades,jacks,13,Joe Bondy,31,12,2022
+Week 2,2,BB-6472887,304,King of Diamonds,kingd,46,Chad Collings,31,12,2022
+Week 3,3,BC-4614989,200,Queen of Diamonds,queend,14,Richard Goods,31,12,2022
+Week 4,4,BD-2585953,200,7 of Diamonds,sevend,27,Bonnie Gerber,31,12,2022
+Week 5,5,BE-5028446,208,10 of Spades,tens,21,Linda Peters,31,12,2022
+Week 6,6,BF-5543391,159,7 of Hearts,sevenh,51,JoAnn Van Engelen,31,12,2022
+Week 7,7,BG-8864034,167,8 of Spades,eights,28,George Fischtner,31,12,2022
+Week 8,8,BH-5352692,146,8 of Clubs,eightc,6,Lisa J.,31,12,2022
+Week 9,9,BI-3531499,118,Ace of Diamonds,aced,25 ,Rita Ireland,31,12,2022
+Week 10,10,BJ-7182701,148,9 of Spades,nines,20,Lily Mackinnon,31,12,2022
+Week 11,11,BK-2982785,179,4 of Diamonds,fourd,2,Harold Pennell,31,12,2022
+Week 12,12,BL-6784274,197,5 of Hearts,fiveh,34,Colleen Gilroy,31,12,2022
+Week 13,13,BM-4463453,160,3 of Clubs,threec,3,Cyr Simon,31,12,2022
+Week 14,14,BN-4079466,101,2 of Clubs,twoc,9,George Fischtner,31,12,2022
+Week 15,15,BO-2944817,153,Ace of Clubs,acec,47,Chad Collings,31,12,2022
+Week 16,16,BP-6547303,133,Queen of Clubs,queenc,23,Tim Morgan,31,12,2022
+Week 17,17,BQ-4098027,142,4 of Spades,fours,32,,31,12,2022
+Week 18,18,BR-5563317,95,3 of Diamonds,threed,1,,31,12,2022
+Week 19,19,BS-4196011,117,2 of Hearts,twoh,26,Amy Milliken,31,12,2022
+Week 20,20,BT-1777301,110,8 of Diamonds,eightd,19,Amy Milliken,31,12,2022
+Week 21,21,BU-8423172,102,7 of Spades,sevens,39,Jake Felker,31,12,2022

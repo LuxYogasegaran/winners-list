@@ -1,1 +1,29 @@
-
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+Week 1,1,A-1576657,1200,3 of Diamonds,threed,47,Robert T.,3,3,2021
+Week 2,2,B-5098285,1200,6 of Diamonds,sixd,7,Mary P.,10,3,2021
+Week 3,3,C-1999447,1200,2 of Spades,twos,10,John O.,17,3,2021
+Week 4,4,D-1328548,1200,King of Clubs,kingc,22,Richard B.,24,3,2021
+Week 5,5,E-5397246,1200,Jack of Hearts,jackh,6,Robert T.,31,3,2021
+Week 6,6,F-1509473,1200,6 of Spades,sixs,4,Joy C.,7,4,2021
+Week 7,7,G-5038557,1200,8 of Diamonds,eightd,38,Jonathan C.,14,4,2021
+Week 8,8,H-5424055,1200,10 of Hearts,tenh,8,Robert T.,21,4,2021
+Week 9,9,I-3750470,1200,8 of Clubs,eightc,24,Richard B.,28,4,2021
+Week 10,10,J-4730982,130,10 of Clubs,tenc,17,Nicholas C.,05,5,2021
+Week 11,11,K-1900773,94,7 of Clubs,sevenc,14,Amanda C.,12,5,2021
+Week 12,12,L-3040113,92,Jack of Diamonds,jackd,28,Jonathan C.,19,5,2021
+Week 13,13,M-5323307,50,Ace of Clubs,acec,52,Sharon C.,26,5,2021
+Week 14,14,N-4606497,80,Queen of Hearts,queenh,13,Andrew P.,2,6,2021
+Week 15,15,O-2858209,50,Queen of Diamonds,queend,42,Jonathan C.,9,6,2021
+Week 16,16,P-4047345,66,Jack of Clubs,jackc,30,-,16,6,2021
+Week 17,17,Q-3348659,50,King of Hearts,kingh,31,Nicholas,23,6,2021
+Week 18,18,R-3020316,50,King of Diamonds,kingd,31,Nicholas,30,6,2021
+Week 19,19,S-5864352,60,Queen of Clubs,queenc,9,Joseph F.,7,7,2021
+Week 20,20,T-4075767,56,2 of Clubs,twoc,33,Jonathan C.,14,7,2021
+Week 21,21,U-4369745,50,4 of Hearts,fourh,48,Catherine H.,21,7,2021
+Week 22,22,V-2136194,70,5 of Clubs,fivec,11,-,28,7,2021
+Week 23,23,W-2278929,50,2 of Diamonds,twod,18,Jonathan C.,4,8,2021
+Week 24,24,X-5846968,66,Ace of Hearts,aceh,29,Kim M.,11,8,2021
+Week 25,25,Y-3677560,54,5 of Spades,fives,1,Jonathan C.,18,8,2021
+Week 26,26,Z-3483312,50,Ace of Diamonds,aced,15,Vivian H.,25,8,2021
+Week 27,27,AA-2237801,74,4 of Diamonds,fourd,2,John O.,1,9,2021
+Week 28,28,BB-3079029,50,5 of Diamonds,fived,3,John O.,8,9,2021

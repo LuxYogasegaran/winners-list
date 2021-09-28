@@ -1,4 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-July Draw,1,A-12345678,2,Early Bird Prize #1,0,John D.,8,7,2021
-July Draw,1,A-73628015,2,Early Bird Prize #2,0,Jane S.,16,7,2021
+July Draw,1,A-12345678,2,Early Bird Prize 1,0,John D.,8,7,2021
+July Draw,1,A-73628015,2,Early Bird Prize 2,0,Jane S.,16,7,2021
 July Draw,1,A-88891623,1,Jackpot,78291,Carles J.,30,7,2021

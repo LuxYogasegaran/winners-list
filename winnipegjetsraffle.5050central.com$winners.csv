@@ -1,0 +1,8 @@
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+Week 1,1,A-10003286,2000,7 of Spades,sevens,6,,31,12,2022
+Week 2,2,B-10000122,2000,9 of Clubs,ninec,49,,31,12,2022
+Week 3,3,C-10008374,2000,2 of Spades,twos,27,,31,12,2022
+Week 4,4,D-10001118,2000,7 of Diamonds,sevend,23,,31,12,2022
+Week 5,5,E-10008089,2000,4 of Spades,fours,7,,31,12,2022
+Week 6,6,F-10001269,585,10 of Clubs,tenc,21,,31,12,2022
+Week 7,7,G-10003752,724,King of Hearts,kingh,43,,31,12,2022

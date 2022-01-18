@@ -1,18 +1,4 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
-Week 1,1,A-10003286,2000,7 of Spades,sevens,6,,31,12,2021
-Week 2,2,B-10000122,2000,9 of Clubs,ninec,49,,31,12,2021
-Week 3,3,C-10008374,2000,2 of Spades,twos,27,,31,12,2021
-Week 4,4,D-10001118,2000,7 of Diamonds,sevend,23,,31,12,2021
-Week 5,5,E-10008089,2000,4 of Spades,fours,7,,31,12,2021
-Week 6,6,F-10001269,585,10 of Clubs,tenc,21,,31,12,2021
-Week 7,7,G-10003752,724,King of Hearts,kingh,43,,31,12,2021
-Week 8,8,H-10002090,593,Jack of Spades,jacks,17,,31,12,2021
-Week 9,9,I-10007047,614,2 of Clubs,twoc,31,,31,12,2021
-Week 10,10,J-10006604,534,6 of Spades,sixs,52,,31,12,2021
-Week 11,11,K-10005036,401,6 of Diamonds,sixd,39,,31,12,2021
-Week 12,12,L-10001068,420,Queen of Hearts,queenh,29,,31,12,2021
-Week 13,13,M-10000513,425,King of Diamonds,kingd,33,,31,12,2021
-Week 14,14,N-10003332,649,8 of Spades,eights,11,,20,12,2021
-Week 15,15,O-10005508,520,Queen of Clubs,queenc,9,,27,12,2021
-Week 16,16,P-10000430,540,3 of Clubs,threec,18,,3,1,2022
-Week 17,17,Q-10001187,521,9 of Diamonds,nined,1,,10,1,2022
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+July Draw,1,A-47382915,2,Early Bird Prize 1,0,John D.,8,7,2021
+July Draw,1,A-00984627,1,Jackpot,827373,Carles M.,30,7,2021
+Draw 52,2,A-1283617,2,Cash Prize,$500,Ignatius J. Reilly,18,1,2022

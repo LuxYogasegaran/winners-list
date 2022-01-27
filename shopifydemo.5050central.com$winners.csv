@@ -1,5 +1,5 @@
-EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-July Draw,1,A-47382915,2,Early Bird Prize 1,0,,8,7,2021
-July Draw,1,A-00984627,1,Jackpot,827373,,30,7,2021
-Draw 52,2,A-1283617,2,Cash Prize,0,,18,1,2022
-Draw 52,1,A-2464802,1,Jackpot,15000,,19,1,2022
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear,PrizeImageUrl
+July Draw,1,A-47382915,2,Early Bird Prize 1,0,,8,7,2021,https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+July Draw,1,A-00984627,1,Jackpot,827373,,30,7,2021,https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+Draw 52,2,A-1283617,2,Cash Prize,0,,18,1,2022,https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+Draw 52,1,A-2464802,1,Jackpot,15000,,19,1,2022,https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png

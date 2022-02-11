@@ -13,8 +13,8 @@ Week 1,1,A-4965515,83,8 of Hearts,eighth,52,Name Name,31,12,2022
 
 ```csv
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-July Draw,1,A-47382915,2,Early Bird Prize 1,0,John D.,8,7,2021
-July Draw,1,A-00984627,1,Jackpot,827373,Carles M.,30,7,2021
+Early Bird,1,A-47382915,2,1000,0,John D.,8,7,2021
+Grand Prize,1,A-00984627,1,827373,0,Carles M.,30,7,2021
 ```
 
 Note:

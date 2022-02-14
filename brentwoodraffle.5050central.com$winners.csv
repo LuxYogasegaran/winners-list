@@ -1,2 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,D-6547657,2,1000,1000,Dan Monaghan,11,2,2022
+Early Bird,1,D-6547657,2,1000,0,Dan Monaghan,11,2,2022
+Bonus Draw,1,D-6190495,2,$400 Gift Card to the Keg Steakhouse & Bar ,0,Vince Covello,11,2,2022
+

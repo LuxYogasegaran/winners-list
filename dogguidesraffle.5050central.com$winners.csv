@@ -1,2 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-7178706,2,$1000,0,Tony,18,2,2022
+Grand Prize,1,A-7863489,1,$13730,0,TBD,4,2,2022

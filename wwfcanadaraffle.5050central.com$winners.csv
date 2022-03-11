@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-7358579,2,$500,0,Taylor R.,7,5,2021
 Grand Prize,1,A-2507339,1,$41755,0,Karen DG.,28,5,2021
+Early Bird,1,WWF-3990371,2,$1000,0,Lee Ann M.,11,3,2022

@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-4079515,2,$250,0,Randy F.,14,2,2022
 Grand Prize,1,A-5025860,1,$1188,0,Kyle R.,28,2,2022
+Early Bird,2,B-4355161,2,$250,0,Nanci A.,14,3,2022

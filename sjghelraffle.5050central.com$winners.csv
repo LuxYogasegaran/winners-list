@@ -1,1 +1,2 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-1822623,2,$500,0,Grace McLeod,10,3,2022

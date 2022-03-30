@@ -1,5 +1,5 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,N-6440393,2,$1000,0,Rebecca Audia,1,10,2021
+Early Bird,1,N-6440393,2,$1000,0,Rebecca Audia,0,10,2021
 Early Bird,1,N-2358927,2,$1000,0,Ann Frechette,1,10,2021
 Grand Prize,1,N-6159336,1,$34905,0,Ed Pries,28,10,2022
 Early Bird,1,O-3743339,2,$1000,0,Irene Bergman,1,11,2021

@@ -1,5 +1,5 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,A-7242794,2,$1000,0,Susan Smith,15,10,2021
+Early Bird,1,A-7242794,2,$1000,0,Susan S.,15,10,2021
 Grand Prize,1,A-6761189,1,$11915,0,Donna H.,29,10,2021
 Early Bird,2,B-4692799,2,$1000,0,Joline S.,15,11,2021
 Grand Prize,2,B-5025199,1,$8610,0,Renee T.,30,11,2021

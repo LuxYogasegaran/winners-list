@@ -1,21 +1,21 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,N-6440393,2,$1000,0,Rebecca Audia,1,10,2021
 Early Bird,1,N-2358927,2,$1000,0,Ann Frechette,1,10,2021
-Grand Prize,1,N-6159336,1,$34905,0,Ed Pries,1,10,2022
+Grand Prize,1,N-6159336,1,$34905,0,Ed Pries,28,10,2022
 Early Bird,1,O-3743339,2,$1000,0,Irene Bergman,1,11,2021
 Early Bird,1,O-7513904,2,$1000,0,Anne Silander,1,11,2021
-Grand Prize,1,O-1164297,1,$41340,0,-,1,11,2021
+Grand Prize,1,O-1164297,1,$41340,0,-,29,11,2021
 Early Bird,1,P-1936859,2,$1000,0,Bev Richards,1,12,2021
 Early Bird,1,P-5708125,2,$1000,0,Gwen Medicine,1,12,2021
 Early Bird,1,P-7173451,2,$1000,0,Haroldene Hanstead,1,12,2021
 Early Bird,1,P-5019045,2,$1000,0,-,1,12,2021
-Grand Prize,1,P-6181842,1,$61305,0,-,1,12,2021
+Grand Prize,1,P-6181842,1,$61305,0,-,30,12,2021
 Early Bird,1,Q-6507297,2,$1000,0,Pat Burke,1,1,2022
 Early Bird,1,Q-1412662,2,$1000,0,Braden Murraye,1,1,2022
-Grand Prize,1,Q-3589146,1,$34675,0,-,1,1,2022
+Grand Prize,1,Q-3589146,1,$34675,0,-,30,1,2022
 Early Bird,1,R-4433790,2,$1000,0,TBD,1,2,2022
 Early Bird,1,R-R1798874,2,$1000,0,TBD,1,2,2022
-Grand Prize,1,R-5055087,1,$25445,0,TBD,1,2,2022
+Grand Prize,1,R-5055087,1,$25445,0,TBD,27,2,2022
 Early Bird,1,S-2106241,2,$1000,0,TBD,1,3,2022
 Early Bird,1,S-7376278,2,$1000,0,TBD,1,3,2022
 Early Bird,1,S-4301195,2,$1000,0,TBD,1,3,2022

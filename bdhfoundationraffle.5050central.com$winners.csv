@@ -1,0 +1,10 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,AUG-5391502,1,Jackpot,$2205,Larry Holmes,1,9,2021
+Grand Prize,2,SEP-1555762,1,Jackpot,$1370,Kenny Neadow,1,10,2021
+Grand Prize,3,OCT-8454175,1,Jackpot,$810,Ernest Harper,29,10,2021
+Grand Prize,4,NOV-1408227,1,Jackpot,$665,Tracy Gemmill,30,11,2021
+Early Bird,5,DEC-4502120,2,$250,0,Sandra Ladd,21,12,2022
+Grand Prize,5,DEC-4797835,1,Jackpot,$1435,Shannon Jones,30,12,2021
+Grand Prize,6,JAN-7365627,1,Jackpot,$2190,Meagan Moore,1,2,2022
+Early Bird,7,FEB-2310635,2,$1000,0,Dale Flood,14,2,2022
+Grand Prize,7,FEB-9030580,1,Jackpot,$1155,Jacinthe Gosselin,1,3,2022

@@ -1,2 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-1822623,2,$500,0,Grace McLeod,10,3,2022
+Grand Prize,1,A-1953852,1,$8385,0,Ed Sheare,31,3,2022

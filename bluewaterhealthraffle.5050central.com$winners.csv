@@ -1,9 +1,1 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,J-6451785,2,$1000,0,Ron and Gloria Szabo,22,7,2021
-Grand Prize,1,J-7677317,1,$28720,0,David Mitchell,5,8,2021
-Early Bird,2,A-1724671,2,$1000,0,Mike Rogerson,26,8,2021
-Grand Prize,2,A-4907659,1,$14060,0,Robert Aldous,9,9,2021
-Early Bird,3,S-5845956,2,$1000,0,Borden Kemmis,23,9,2021
-Grand Prize,3,S-3548616,1,$6570,0,Eleanor Vargo,7,10,2021
-Early Bird,4,O-3788887,2,$1000,0,-,21,10,2021
-Grand Prize,4,O-3402178,1,$4600,0,-,4,11,2021

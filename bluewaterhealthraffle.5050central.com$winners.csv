@@ -1,6 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,A-47382915,2,$1000,0,John D.,8,7,2022
-Grand Prize,1,A-00984627,1,$827373,0,Carles M.,30,7,2022
 Early Bird,1,J-6451785,2,$1000,0,Ron and Gloria Szabo,22,7,2021
 Grand Prize,1,J-7677317,1,$28720,0,David Mitchell,5,8,2021
 Early Bird,2,A-1724671,2,$1000,0,Mike Rogerson,26,8,2021

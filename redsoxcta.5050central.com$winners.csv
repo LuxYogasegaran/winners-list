@@ -1,2 +1,2 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear,PrizeTypeId
-Week 1,1,A-1000589,0,Jack of Spades,jacks,42,"Matt N.",14,4,2022,"Two Green Monster Tickets for the Home Opener at Fenway Park on April 15th"
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear,PrizeTitle,PrizeTypeId
+Week 1,1,A-1000589,0,Jack of Spades,jacks,42,"Matt N.",14,4,2022,"Two Green Monster Tickets for the Home Opener at Fenway Park on April 15th",1

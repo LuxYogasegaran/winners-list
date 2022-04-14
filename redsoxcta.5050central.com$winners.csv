@@ -1,1 +1,2 @@
-
+EventTitle,EventNo,TicketNo,PrizeAmount,PrizeTypeID,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear     
+Week 1,1,A-1000589,Two Green Monster Tickets for the Home Opener at Fenway Park on April 15th,Jack of Spades,jacks,42,Matt N.,14,4,2022

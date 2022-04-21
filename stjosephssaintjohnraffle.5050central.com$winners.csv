@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-8248743,2,$250,0,Joseph Cooke,17,3,2022
 Grand Prize,1,A-8966939,1,$8677.50,0,June Foley,31,3,2022
+Early Bird,2,A-1908212,2,$250,0,TBD,21,4,2022

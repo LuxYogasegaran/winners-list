@@ -1,0 +1,4 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,E-1490761,2,$1000,0,Jessica M.,30,9,2021
+Early Bird,1,E-6702645,2,$500,0,Nnacy B.,14,10,2021
+Grand Prize,1,E-1146677,1,Jackpot,41550,TBD,29,10,2021

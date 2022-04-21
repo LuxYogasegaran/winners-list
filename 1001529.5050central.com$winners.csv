@@ -1,5 +1,5 @@
-EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-January Draw,1,A-2443523,1,Grand Prize,2346,John c.,20,1,2022
-January Draw,1,A-2463523,2,Cash Prize,123,John d.,21,1,2022
-January Draw,1,A-24634423,2,Consolation,456,John e.,22,1,2022
-January Draw,1,A-24333523,2,EB,789,John f.,23,1,2022
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear,PrizeImageUrl
+January Draw,1,A-2443523,1,Grand Prize,2346,John c.,20,1,2022,https://www.dropbox.com/s/3u22rod3ul4yply/Prize-Image_jackpot.jpg?raw=1
+January Draw,1,A-2463523,2,Cash Prize,123,John d.,21,1,2022,https://www.dropbox.com/s/kc27s3i6ctyjmxo/Prize-Image_earlybird2.jpg?raw=1
+January Draw,1,A-24634423,2,Consolation,456,John e.,22,1,2022,https://www.dropbox.com/s/q7xpjzwu4iqs0zp/Prize-Image_earlybird1.jpg?raw=1
+January Draw,1,A-24333523,2,EB,789,John f.,23,1,2022,https://drive.google.com/uc?id=1v8bbyDJmaKtFqCF4yNyNJ4hPI1uP6VzA

@@ -1,0 +1,10 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,A-2688420,1,$10665,0,David McArthur,1,9,2021
+Early Bird,2,B-9282457,2,$500,0,Rose Bannister,22,9,2021
+Grand Prize,2,B-3590712,1,$5715,0,Mark Weidmark,13,10,2021
+Grand Prize,3,C-8062755,1,$3005,0,Gayle Caudle,10,11,2021
+Early Bird,4,C-8230750,2,$500,0,Mark Weidmark,24,11,2021
+Grand Prize,4,C-6120623,1,$6140,0,Angie M.,15,12,2021
+Grand Prize,5,E-1319557,1,$3445,0,Shirley Moser,12,1,2022
+Grand Prize,6,F-8055518,1,$4945,0,Sandra McMeekin,9,2,2022
+Grand Prize,7,G-5486482,1,$5265,0,Joanne Jonker,9,3,2022

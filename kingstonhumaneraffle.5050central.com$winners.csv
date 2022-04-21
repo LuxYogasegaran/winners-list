@@ -1,1 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,APR-2305216,2,$500,0,JoAnne Metcalfe,25,3,2022
+Grand Prize,1,APR-1545936,1,Jackpot,22615,Meg Bailey,8,4,2022

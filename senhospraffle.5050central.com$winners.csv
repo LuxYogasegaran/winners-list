@@ -1,0 +1,5 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-2222587,2,$200,0,Lise Gervais-Isabelle & Doris Trottier,3,12,2021
+Grand Prize,1,A-9485636,1,Grand Prize,14430,Karen Rossi,31,12,2021
+Early Bird,2,B-2290841,2,$200,0,Jennifer Leblanc,4,2,2022
+Grand Prize,2,B-1419206,1,Grand Prize,7432,Carole Noella Theriault,25,2,2022

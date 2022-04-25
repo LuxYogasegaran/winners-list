@@ -1,8 +1,7 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,D-7358439,1,Jackpot,2410,Karen Adamski,24,9,2021
-Grand Prize,1,E-1445274,1,Jackpot,1430,Mary Fassaert,29,10,2021
-Grand Prize,1,F-5261095,1,Jackpot,2990,Judy Donegan,30,12,2021
-Grand Prize,1,G-5394879,1,Jackpot,3525,Carley Dignam,25,2,2022
-Grand Prize,1,H-5764186,1,Jackpot,300,Carley Dignam,12,3,2022
-Grand Prize,1,H-1581873,1,Jackpot,2325,Matt Konecny,1,4,2022
-
+Grand Prize,2,E-1445274,1,Jackpot,1430,Mary Fassaert,29,10,2021
+Grand Prize,3,F-5261095,1,Jackpot,2990,Judy Donegan,30,12,2021
+Grand Prize,4,G-5394879,1,Jackpot,3525,Carley Dignam,25,2,2022
+Early Bird,5,H-5764186,1,$300,0,Lawrie Maris,12,3,2022
+Grand Prize,5,H-1581873,1,Jackpot,2325,Matt Konecny,1,4,2022

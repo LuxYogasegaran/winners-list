@@ -1,7 +1,9 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,FEB-2797793,2,$1000,0,Sabrina J.,18,2,2022
-Grand Prize,1,FEB-1154884,1,Jackpot,8492,Darlene L.,25,2,2022
-Early Bird,1,MAR-2131922,2,$1000,0,Julie E.,18,3,2022
-Grand Prize,1,MAR-2955297,1,Jackpot,6290,Dave B.,30,3,2022
-Early Bird,1,APR-2272671,2,$250,0,Lucie B.,22,4,2022
-Early Bird,1,APR-2102893,2,$500,0,Darlene B.,22,4,2022
+Grand Prize,1,JAN-2003568,1,Jackpot,8220,Jacquelyn S.,28,1,2022
+Early Bird,2,FEB-2474336,2,$500 Gift Certificate to the Elm Hurst Inn & Spa,0,Debbie P.,11,2,2022
+Early Bird,2,FEB-2797793,2,$1000,0,Sabrina J.,18,2,2022
+Grand Prize,2,FEB-1154884,1,Jackpot,8492,Darlene L.,25,2,2022
+Early Bird,3,MAR-2131922,2,$1000,0,Julie E.,18,3,2022
+Grand Prize,3,MAR-2955297,1,Jackpot,6290,Dave B.,30,3,2022
+Early Bird,4,APR-2272671,2,$250,0,Lucie B.,14,4,2022
+Early Bird,4,APR-2102893,2,$500,0,Darlene B.,22,4,2022

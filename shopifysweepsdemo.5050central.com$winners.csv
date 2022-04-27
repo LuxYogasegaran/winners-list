@@ -1,4 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Sweepstakes,1,A-12345678,2,My Early Bird,0,John Doe,27,4,2022
-Sweepstakes,1,A-87654321,2,My Early Bird 2,0,Jane Doe,28,4,2022
+Sweepstakes,1,A-87654321,2,My Early Bird 2 This is a long title that I,0,Jane Doe,28,4,2022
 Sweepstakes,1,A-82374827,1,My Grand Prize This is a long title that I,0,Carl John,30,4,2022

@@ -1,22 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Grand Prize,1,M-1973413,1,Jackpot,4398,Douglas Stefurak,30,5,2020
-Grand Prize,2,J-9747110,1,Jackpot,3820,John LeClaire,31,6,2020
-Grand Prize,3,J-5253698,1,Jackpot,4470,Lucas Patterson,31,7,2020
-Grand Prize,4,A-7237448,1,Jackpot,4050,Jennifer Morgan,31,8,2020
-Grand Prize,5,S-6096660,1,Jackpot,4288,Karen Hardy,31,10,2020
-Grand Prize,6,0-2433663,1,Jackpot,2925,Roger St.Jules,31,10,2020
-Grand Prize,7,N-3635559,1,Jackpot,3418,Linda Collinson,31,12,2020
-Grand Prize,8,D-8165692,1,Jackpot,11698,Ann Ray,31,12,2020
-Grand Prize,9,J-9967118,1,Jackpot,6720,Cathryn St. Louis,31,1,2021
-Grand Prize,10,F-1521660,1,Jackpot,8868,Bonnie Davis,28,2,2021
-Grand Prize,11,M-5163580,1,Jackpot,14018,Denis Becker,31,3,2021
-Grand Prize,12,A-7514433,1,Jackpot,11692,Stephanie Twance,30,4,2021
-Grand Prize,13,M-6320173,1,Jackpot,9520,Sarah Kuruliak,31,5,2021
-Grand Prize,14,J-6150283,1,Jackpot,7850,Doug Beaucage,30,6,2021
-Grand Prize,15,J-7500960,1,Jackpot,6202,Gerald Simpson,31,7,2021
-Grand Prize,16,A-3477690,1,Jackpot,6502,Sandie Delorme,31,8,2021
-Grand Prize,17,A-3477690,1,Jackpot,6502,Sandie Delorme,30,9,2021
-Grand Prize,18,S-6410015,1,Jackpot,6708,Victoria Needham,30,9,2021
 Grand Prize,19,O-8429210,1,Jackpot,6572,Natasha Armstrong,31,10,2021
 Grand Prize,20,N-9053107,1,Jackpot,5340,Rita Smelt from Marathon,30,11,2021
 Grand Prize,21,D-6293585,1,Jackpot,9520,Gerardine Robichaud,31,12,2021

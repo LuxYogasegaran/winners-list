@@ -1,6 +1,6 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-5794565,2,$1000,0,Karl Meissner,15,11,2021
-Grand Prize,1,A-9385673,1,1906.50,0,Kara Vallier,26,11,2021
+Grand Prize,1,A-9385673,1,$1906.50,0,Kara Vallier,26,11,2021
 Early Bird,1,A-2563826,2,$1000,0,Luzzed Worman,15,12,2021
 Grand Prize,1,A-9385673,1,Jackpot,1004,Brenda Johnstone,31,12,2021
 Early Bird,1,A-3215570,2,$1000,0,Jennifer Gilbert,15,1,2022

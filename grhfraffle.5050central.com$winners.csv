@@ -1,1 +1,3 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-2935819,2,$500,0,Merv Redman,29,4,2022
+Early Bird,1,A-2171226,2,$500,0,Marg McKeag,29,4,2022

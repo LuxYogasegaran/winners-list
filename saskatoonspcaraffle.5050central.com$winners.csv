@@ -1,13 +1,15 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-7242794,2,$1000,0,Susan S.,15,10,2021
-Grand Prize,1,A-6761189,1,$11915,0,Donna H.,29,10,2021
+Grand Prize,1,A-6761189,1,Jackpot,11915,Donna H.,29,10,2021
 Early Bird,2,B-4692799,2,$1000,0,Joline S.,15,11,2021
-Grand Prize,2,B-5025199,1,$8610,0,Renee T.,30,11,2021
+Grand Prize,2,B-5025199,1,Jackpot,8610,Renee T.,30,11,2021
 Early Bird,3,C-2494417,2,$1000,0,Melanie T.,15,12,2021
-Grand Prize,3,C-7119660,1,$13845,0,Tony M.,30,12,2021
+Grand Prize,3,C-7119660,1,Jackpot,13845,Tony M.,30,12,2021
 Early Bird,4,D-2494417,2,$1000,0,DNay S.,14,1,2022
-Grand Prize,4,D-7119660,1,$14245,0,Joe M.,27,1,2022
+Grand Prize,4,D-7119660,1,Jackpot,14245,Joe M.,27,1,2022
 Early Bird,5,E-5916539,2,$1000,0,Tanya K.,15,2,2022
-Grand Prize,5,E-2203967,1,$9080,0,Jocelyn D.,24,2,2022
+Grand Prize,5,E-2203967,1,Jackpot,9080,Jocelyn D.,24,2,2022
 Early Bird,6,F-1059073,2,$1000,0,Judith M.,15,3,2022
-Grand Prize,6,G-7101935,1,$9135,0,Terri E.,28,4,2022
+Grand Prize,6,F-1137062,1,Jackpot,8185,Jane R.,31,3,2022
+Early Bird,7,G-1381748,2,$1000,0,Ana M.,15,4,2022
+Grand Prize,7,G-7101935,1,Jackpot,9135,Terri E.,28,4,2022

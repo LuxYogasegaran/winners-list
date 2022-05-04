@@ -1,4 +1,4 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear,PrizeTypeId
-Week 1,1,A-7919842,1508,8 of Diamonds,eightd,22,Angelito E.,23,2,2022,1
-Week 2,2,A-7482093,3008,Ace of Spades,aces,3,Magdalena J.,1,3,2022,1
-Week 3,3,A-9203945,4000,Queen of Spades,queens,32,John F.,8,3,2022,4
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+Week 1,1,A-7919842,1508,8 of Diamonds,eightd,22,Angelito E.,23,2,2022
+Week 2,2,A-7482093,3008,Ace of Spades,aces,3,Magdalena J.,1,3,2022
+Week 3,3,A-9203945,4000,Queen of Spades,queens,32,John F.,8,3,2022

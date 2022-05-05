@@ -1,1 +1,7 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-2512362,2,$500,0,Justin Perkins,12,11,2021
+Grand Prize,1,A-3394102,1,Jackpot,1470,Luisa Morrone,25,11,2021
+Early Bird,1,A-5486217,2,$500,0,Ani B.,17,12,2021
+Grand Prize,1,A-6515282,1,Jackpot,1340,Paul S.,30,12,2021
+Early Bird,1,A-4568560,2,$500,0,Warren Bryer,1,4,2022
+Grand Prize,1,A-2981621,1,Jackpot,380,Paul S.,22,4,2021

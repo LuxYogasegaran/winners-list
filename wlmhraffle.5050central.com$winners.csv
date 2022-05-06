@@ -1,1 +1,12 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-4535297,2,$250 VISA Gift Card,0,Paul M.,28,1,2022
+Early Bird,1,A-4917604,2,$500,0,Corinne R.,4,2,2022
+Early Bird,1,A-9914513,2,$1000,0,Sarah C.,11,2,2022
+Grand Prize,1,A-8688065,1,Jackpot,15965,Patricia J.,18,2,2022
+Early Bird,1,B-1053756,2,$250,0,Donna W.,12,4,2022
+Early Bird,1,B-9599224,2,$500,0,Brian L.,15,4,2022
+Early Bird,1,B-5437509,2,$250,0,Kate A.,15,4,2022
+Early Bird,1,B-1329058,2,$750,0,Jennifer S.,22,4,2022
+Early Bird,1,B-6073875,2,$250,0,April H.,26,4,2022
+Early Bird,1,B-5953630,2,$1000,0,Lisa T.,29,4,2022
+Early Bird,1,B-3473072,2,$250,0,Theresa C.,3,5,2022

@@ -1,4 +1,6 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,B-8019880,2,$2022,0,Linda Duhamel,4,1,2022
+Grand Prize,2,B-8620115,1,Jackpot,27645,Heidi Ruth,18,1,2022
 Early Bird,1,B-3791201,2,$200 Gift Card Ali’s Grill and Bar and $150 bouquet of flowers from Petals Flowers Inc. valued at $150,0,Alison Walker,1,2,2022
 Early Bird,1,B-7677383,2,$500,0,Ken McLeod,1,2,2022
 Grand Prize,2,B-9184026,1,Jackpot,8495,Bruce Lajeunesse,16,2,2022

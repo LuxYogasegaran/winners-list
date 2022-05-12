@@ -1,0 +1,5 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,H-9475717,2,$500,0,Cheryl Ford,3,12,2021
+Grand Prize,1,H-6735746,1,Jackpot,11615,-,21,12,2021
+Early Bird,2,I-7595553,2,$500,0,Frank C.,26,1,2022
+Grand Prize,2,I-4617226,1,Jackpot,9940,Gary and Susan H.,15,2,2022

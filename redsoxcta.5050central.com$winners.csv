@@ -1,5 +1,6 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
-Week 1,1,A-1000589,0,Jack of Spades,jacks,42,"Matt N.",14,4,2022
-Week 2,2,B-1003443,0,Ace of Spades,aces,23,"Charlie L.",21,4,2022
-Week 3,3,C-1000485,0,Ace of Diamonds,aced,7,"Lynn R.",28,4,2022
-Week 4,4,D-1000110,0,5 of Diamonds,fived,8,"Dawn D.",5,5,2022
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear,PrizeTypeId
+Week 1,1,A-1000589,0,Jack of Spades,jacks,42,"Matt N.",14,4,2022,1
+Week 2,2,B-1003443,0,Ace of Spades,aces,23,"Charlie L.",21,4,2022,1
+Week 3,3,C-1000485,0,Ace of Diamonds,aced,7,"Lynn R.",28,4,2022,1
+Week 4,4,D-1000110,0,5 of Diamonds,fived,8,"Dawn D.",5,5,2022,1
+Week 5,5,E-1000783,0,Ace of Clubs,acec,9,"Dawn D.",12,5,2022,1

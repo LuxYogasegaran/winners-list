@@ -19,7 +19,8 @@ Grand Prize,1,A-00984627,1,Jackpot,827373,Carles M.,30,7,2022
 
 Note:
 - `PrizeTypeId` 2 : Early Bird
-- `PrizeTypeId` 1 : Grand Prize
+- `PrizeTypeId` 1 : Grand Prize/CTA Weekly Prize
+- `PrizeTypeId` 4 : CTA Jackpot 
 - If it is an early bird, the `PrizeTitle` will be displayed in the LP. We can leave the `PrizeAmount` as 0.
 - If it is a grand prize, the `PrizeAmount` will be displayed in the LP. We can leave the `PrizeTitle` as "Jackpot"
 - Make sure to chronologically order the events, from the earliest Early Bird, to the latest Early Bird, to the Grand Prize.

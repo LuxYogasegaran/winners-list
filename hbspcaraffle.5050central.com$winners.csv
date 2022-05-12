@@ -1,1 +1,4 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-6655459,2,$500,0,Alan P.,14,1,2022
+Early Bird,1,A-3298097,2,$500,0,Diana F.,14,2,2022
+Grand Prize,1,A-2795637,1,Jackpot,19115,Sally M.,28,2,2022

@@ -1,7 +1,8 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-4079515,2,$250,0,Randy F.,14,2,2022
-Grand Prize,1,A-5025860,1,$1188,0,Kyle R.,28,2,2022
+Grand Prize,1,A-5025860,1,Jackpot,1188,Kyle R.,28,2,2022
 Early Bird,2,B-4355161,2,$250,0,Nanci A.,14,3,2022
-Grand Prize,2,B-5246599,1,$680,0,Louise H.,28,3,2022
+Grand Prize,2,B-5246599,1,Jackpot,680,Louise H.,28,3,2022
 Early Bird,3,C-3189955,2,$250,0,Joseph C.,11,4,2022
-Grand Prize,3,C-2328658,1,$245,0,Nanci A.,25,4,2022
+Grand Prize,3,C-2328658,1,Jackpot,245,Nanci A.,25,4,2022
+Early Bird,4,D-2896995,2,$250,0,Beverly J.,16,5,2022

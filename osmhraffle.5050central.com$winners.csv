@@ -2,3 +2,4 @@ EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,Draw
 Early Bird,1,A-1345976,2,$500,0,Debbie S.,5,5,2022
 Early Bird,1,A-3209498,2,$500,0,Jeffrey B.,12,5,2022
 Early Bird,1,A-3296379,2,$1000,0,Dan C.,19,5,2022
+Grand Prize,1,A-4786493,1,Jackpot,22848,Carol Brentnall,27,5,2022

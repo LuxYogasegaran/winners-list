@@ -1,23 +1,23 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,G-4099958,2,$250 IGA Gift card,0,Luc Bergeron,14,9,2021
 Early Bird,1,G-1415288,2,$250 Cash,0,Pat Bausch,14,9,2021
-Grand Prize,1,G-4895989,1,$5520,0,Emily Meek,30,9,2021
+Grand Prize,1,G-4895989,1,Jackpot,5520,Emily Meek,30,9,2021
 Early Bird,2,H-1456240,2,$250 IGA Gift card,0,David Anderson,13,10,2021
 Early Bird,2,H-1386344,2,$250 Cash,0,Vicky Just,20,10,2021
-Grand Prize,2,H-5544833,1,$5622,0,Robyn Clayfield,29,10,2021
+Grand Prize,2,H-5544833,1,Jackpot,5622,Robyn Clayfield,29,10,2021
 Early Bird,4,I-6374300,2,2 Return flights on Bearskin Airlines,0,Donna Lychwa,12,11,2021
 Early Bird,4,I-5760949,2,$500 Cash,0,David Plourde,17,11,2021
-Grand Prize,3,I-7415119,1,$5622,0,Amber Adams,26,11,2021
+Grand Prize,3,I-7415119,1,Jackpot,5622,Amber Adams,26,11,2021
 Early Bird,5,J-7957772,2,$500,0,Sherry Daigle,10,12,2021
 Early Bird,5,J-1448193,2,$500,0,Janice Munro,17,12,2021
-Grand Prize,5,J-3428375,1,$13298,0,Kaelyn Litwin,31,12,2021
+Grand Prize,5,J-3428375,1,Jackpot,13298,Kaelyn Litwin,31,12,2021
 Early Bird,6,K-1448193,2,$500,0,Alfred Kudlacek,14,1,2022
-Grand Prize,6,K-2674432,1,$7495,0,Ryan Schuldes,28,1,2022
+Grand Prize,6,K-2674432,1,Jackpot,7495,Ryan Schuldes,28,1,2022
 Early Bird,7,K-7207310,2,$500,0,Karen Schuldes,11,2,2022
-Grand Prize,7,K-5331692,1,$7220,0,Lorrie Ranger,28,2,2022
+Grand Prize,7,K-5331692,1,Jackpot,7220,Lorrie Ranger,28,2,2022
 Early Bird,8,M-3044256,2,$500,0,Leanne Frostiak,17,3,2022
-Grand Prize,8,M-4062557,1,$6070,0,Evan Carpenter,31,3,2022
+Grand Prize,8,M-4062557,1,Jackpot,6070,Evan Carpenter,31,3,2022
 Early Bird,9,N-1874155,2,$500,0,Margaret Harland,14,4,2022
-Grand Prize,9,N-4711666,1,$5602,0,Marianne Malchesky,29,4,2022
+Grand Prize,9,N-4711666,1,Jackpot,5602,Marianne Malchesky,29,4,2022
 Early Bird,10,O-7546889,2,$900,0,Taylor Huot,13,5,2022
-Grand Prize,10,O-7238676,1,$6822,0,TBD,27,5,2022
+Grand Prize,10,O-7238676,1,Jackpot,6822,Gladys Potter,27,5,2022

@@ -1,14 +1,14 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-3176712,2,$500,0,TBD,16,9,2021
-Grand Prize,2,A-6983044,1,$1925,0,TBD,30,9,2021
-Grand Prize,3,B-5789380,1,$1085,0,TBD,29,10,2021
-Grand Prize,4,C-4581155,1,$590,0,TBD,30,11,2021
-Grand Prize,5,D-6729090,1,$790,0,Bernadette Handy,31,12,2021
-Grand Prize,6,E-5947682,1,$625,0,Penny Cardno,28,1,2022
-Grand Prize,7,F-3008236,1,$660,0,Lyndsey Wise,25,2,2022
+Grand Prize,2,A-6983044,1,Jackpot,1925,TBD,30,9,2021
+Grand Prize,3,B-5789380,1,Jackpot,1085,TBD,29,10,2021
+Grand Prize,4,C-4581155,1,Jackpot,590,TBD,30,11,2021
+Grand Prize,5,D-6729090,1,Jackpot,790,Bernadette Handy,31,12,2021
+Grand Prize,6,E-5947682,1,Jackpot,625,Penny Cardno,28,1,2022
+Grand Prize,7,F-3008236,1,Jackpot,660,Lyndsey Wise,25,2,2022
 Early Bird,8,G-2875830,2,$250,0,Kim Smith,16,3,2022
-Grand Prize,9,G-5807444,1,$1030,0,Jim Skinner,31,3,2022
+Grand Prize,9,G-5807444,1,Jackpot,1030,Jim Skinner,31,3,2022
 Early Bird,10,H-7047623,2,$250,0,Cathy Cubberley,19,4,2022
-Grand Prize,11,H-4796349,1,$600,0,Jim Skinner,29,4,2022
+Grand Prize,11,H-4796349,1,Jackpot,600,Jim Skinner,29,4,2022
 Early Bird,12,I-1432141,2,$250,0,TBD,20,5,2022
-Grand Prize,12,I-6962476,1,$425,0,TBD,31,5,2022
+Grand Prize,12,I-6962476,1,Jackpot,425,TBD,31,5,2022

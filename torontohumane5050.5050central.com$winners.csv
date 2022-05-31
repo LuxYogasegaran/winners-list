@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,G-5818936,2,$1000,0,Andre L.,3,5,2022
 Early Bird,1,G-9353688,2,$500,0,M. Lewis,17,5,2022
+Grand Prize,1,G-1168875,1,Jackpot,26250,TBD,31,5,2022

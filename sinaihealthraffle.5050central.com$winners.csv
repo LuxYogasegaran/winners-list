@@ -1,0 +1,9 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-9442287,2,$777,0,-,4,2,2022
+Grand Prize,1,A-9682339,1,Jackpot,24085,Wendy Fischer,9,2,2022
+Early Bird,2,A-6556637,2,$1000,0,Victorine Hopkinson,4,3,2022
+Grand Prize,2,A-9282375,1,Jackpot,28250,Antonella Paskos,18,3,2022
+Early Bird,3,A-7929549,2,$777,0,Jane Manning,29,3,2022
+Grand Prize,3,A-7859443,1,Jackpot,15630,TBD,1,4,2022
+Early Bird,4,A-5217251,2,$777,0,TBD,18,5,2022
+Grand Prize,4,A-5402466,1,Jackpot,17095,TBD,31,5,2022

@@ -1,1 +1,16 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,5,A-4102463,2,$100 gift basket from Boggio’s Pharmacy,0,Robert Majkut,12,12,2021
+Early Bird,5,A-3074687,2,$100 gift from Green Apple Cafe,0,Chris Coulis,13,12,2021
+Early Bird,5,A-7593118,2,$100 gift card for Food Basics,0,Anne Marie Montani,14,12,2021
+Early Bird,5,A-5434759,2,$100 gift basket from Pet Valu,0,Eleanor Hurst,15,12,2021
+Early Bird,5,A-1528869,2,$100 gift card from Harvey’s and Swiss Chalet,0,J.T. Lewis,16,12,2021
+Early Bird,5,A-5153352,2,$100 gift basket or gift card for Ben Berg Farm & Industrial,0,Andrea Mamo,17,12,2021
+Early Bird,5,A-7345012,2,$100 gift card for Canadian Tire,0,Ralph Dekker,18,12,2021
+Early Bird,5,A-2322789,2,$100 gift basket/gift certificate for Grant’s Gifts & Picket Fence,0,Richard Dennis,19,12,2021
+Early Bird,5,A-1076438,2,$100 gift card for No Frills,0,Chris Coulis,20,12,2021
+Early Bird,5,A-7667037,2,$100 gift certificate for Sewell’s Automotive Supply (Napa Auto),0,Sharryn Oleskiw,21,12,2021
+Early Bird,5,A-7589457,2,$100 gift basket from Sobey’s,0,Wendy Dyck,22,12,2021
+Early Bird,5,A-6555379,2,$130 gift basket from PartSource,0,Jenny Anderson,23,12,2021
+Grand Prize,5,A-7889752,1,Jackpot,37505,Kathy Pitkin,1,1,2022
+Early Bird,5,A-3785894,2,50-inches 4K Smart TV,0,Phil Rudachuk,14,4,2021
+Grand Prize,5,A-2190789,1,Jackpot,27795,Suzette Lemay,29,4,2022

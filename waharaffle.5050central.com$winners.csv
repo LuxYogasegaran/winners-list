@@ -1,1 +1,21 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,E-8229887,2,$500 cash,0,Laura Uiselt,7,1,2022
+Early Bird,1,E-4947743,2,$378 gift card from Holiday Inn Timmins,0,Terrence Jones-McLeod,14,1,2022
+Early Bird,1,E-9285032,2,$378 gift card from Holiday Inn Timmins,0,Fred Rickard,14,1,2022
+Early Bird,1,E-3102206,2,$500,0,Melanie Phelps,21,1,2022
+Grand Prize,1,E-2551615,1,Jackpot,500,TBD,1,2,2022
+Early Bird,2,F-8522665,2,$500,0,TBD,7,2,2022
+Early Bird,2,F-6935284,2,$500,0,Nicole Wheesk,14,2,2022
+Early Bird,2,F-2750126,2,$500,0,Jocelyne Leger,21,2,2022
+Grand Prize,2,F-8667851,1,Jackpot,8415,Bonnie Breen,1,3,2022
+Grand Prize,3,G-5281182,1,Jackpot,5985,Maria Koosees,1,4,2022
+Early Bird,4,H-3315560,2,$500,0,Dereck Mckay,8,4,2022
+Early Bird,4,H-4748831,2,$500,0,Charles Gagnon,15,4,2022
+Early Bird,4,H-5800646,2,$500,0,Elaine Blackwell,22,4,2022
+Grand Prize,4,H-1432212,1,Jackpot,7892,Justin Ruffo,29,4,2022
+Early Bird,5,I-8233191,2,$500,0,Lynne Brunet,6,5,2022
+Early Bird,5,I-8208311,2,$500,0,V.Stephanie Paul-Martin,13,5,2022
+Early Bird,5,I-1726768,2,$500,0,Ginger Miller,20,5,2022
+Early Bird,5,I-9997194,2,$500,0,Ginger Miller,27,5,2022
+Grand Prize,5,I-4025356,1,Jackpot,7318,Alexis Hookimaw,1,6,2022
+Early Bird,6,J-1240575,2,$500,0,Pauline Louttit,3,6,2022

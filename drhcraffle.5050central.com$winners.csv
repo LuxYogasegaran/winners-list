@@ -1,1 +1,11 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,Z-5166562,2,$1000,0,Heather Graham,20,1,2022
+Grand Prize,1,Z-3335012,1,Jackpot,64442,Calvin Allan,31,1,2022
+Early Bird,2,Y-3877262,2,$1000,0,Caroline Venton,17,2,2022
+Grand Prize,2,Y-2445734,1,Jackpot,46995,Theresa McDonald,28,2,2022
+Early Bird,3,X-2967800,2,$1000,0,Londyn Bilbrough,18,3,2022
+Grand Prize,3,X-6817729,1,Jackpot,51138,Colleen Morrow,30,3,2022
+Early Bird,4,W-1213658,2,$1000 WestJet Voucher,0,Linda Cockriell,21,4,2022
+Grand Prize,4,W-1990169,1,Jackpot,46992,Duane Steele,29,4,2022
+Grand Prize,5,U-4793528,1,Jackpot,41180,Katelyn Doudiet,30,5,2022
+Early Bird,6,T-4426545,2,$1000,0,TBD,9,6,2022

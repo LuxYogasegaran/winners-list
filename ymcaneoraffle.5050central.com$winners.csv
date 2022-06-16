@@ -1,0 +1,23 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,A-8034260,1,Jackpot,11080,,30,7,2021
+Grand Prize,2,B-4710568,1,Jackpot,5320,,27,8,2021
+Early Bird,3,C-4487385,2,$1000,0,Chancy Trottier,10,9,2021
+Grand Prize,3,C-6224896,1,Jackpot,5350,Carol Couchie,1,10,2021
+Early Bird,4,D-1013260,2,$2000,0,Adam Ball,15,10,2021
+Grand Prize,4,D-1715588,1,Jackpot,5490,Shelly Vanhorn,29,10,2021
+Early Bird,5,E-2627785,2,$2000,0,Kathie Davidson,12,11,2021
+Grand Prize,5,E-3333919,1,Jackpot,8880,Francis McLean,3,12,2021
+Early Bird,6,F-8323444,2,Timex Ironman GPS fitness watch,0,Jacinthe Grenier,17,12,2021
+Grand Prize,6,F-1249795,1,Jackpot,8580,Amy Philp,7,1,2022
+Grand Prize,7,G-7086869,1,Jackpot,4795,Kim Brouzes,4,2,2022
+Early Bird,8,H-1565727,2,$1000,0,Maria Tocco,25,2,2022
+Grand Prize,8,H-8182717,1,Jackpot,4220,Wayne Bozzer,4,3,2022
+Early Bird,9,G-6703259,2,One week YMCA Summer Day Camp,0,David Pisaric,11,3,2022
+Early Bird,9,G-7260645,2,$1000,0,Emily Halloran,25,3,2022
+Grand Prize,9,G-9537023,1,Jackpot,3825,Jean-Raymond Grenier,1,4,2022
+Early Bird,10,H-6785353,2,1 Free Week at YMCA Summer Day Camp,0,Jacinthe Grenier,8,4,2022
+Early Bird,10,H-1734723,2,$1000,0,Dan Cacciotti,23,4,2022
+Grand Prize,10,H-3287613,1,Jackpot,2475,Jean-Raymond Grenier,29,4,2022
+Early Bird,11,I-7888022,2,1 Free Week at YMCA Summer Day Camp,0,Mike Hughes,13,5,2022
+Early Bird,11,I-7336931,2,$1000,0,Cherlynn McLean,27,5,2022
+Grand Prize,11,I-6383261,1,Jackpot,2010,TBD,3,6,2022

@@ -1,0 +1,7 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,D-1785840,1,Jackpot,5660,Henry D.,31,1,2022
+Early Bird,2,E-3011193,2,$500,0,Johanne T.,14,2,2022
+Grand Prize,2,E-4519321,1,Jackpot,4522,Linda R.,1,3,2022
+Grand Prize,3,F-6938455,1,Jackpot,3005,Wendy G.,1,4,2022
+Grand Prize,4,G-4624997,1,Jackpot,5478,Andrew B.,29,4,2022
+Grand Prize,5,H-9739165,1,Jackpot,4555,Jack G.,31,5,2022

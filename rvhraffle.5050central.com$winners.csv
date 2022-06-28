@@ -1,0 +1,6 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,M-5841607,2,$1000,0,J. Waddell,13,1,2022
+Grand Prize,1,M-6176360,1,Jackpot,212420,Tamara Brincat,27,1,2022
+Early Bird,2,N-1914431,2,$1000,0,Thayer ONeill,10,2,2022
+Early Bird,2,N-4273982,2,$1000,0,Karen Saunders,10,2,2022
+Early Bird,2,N-2698551,2,$1000,0,Barb Egerter,10,2,2022

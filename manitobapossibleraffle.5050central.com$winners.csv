@@ -1,1 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-4688076,2,$500,0,Elizabeth Antony,10,6,2022
+Early Bird,1,A-3971749,2,$500,0,Kirk Kennedy,17,6,2022

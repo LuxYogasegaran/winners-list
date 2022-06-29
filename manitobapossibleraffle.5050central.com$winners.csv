@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,A-4688076,2,$500,0,Elizabeth Antony,10,6,2022
-Early Bird,1,A-3971749,2,$500,0,Kirk Kennedy,17,6,2022
+Early Bird,1,A-4688076,2,$500,0,Elizabeth A.,10,6,2022
+Early Bird,1,A-3971749,2,$500,0,Kirk K.,17,6,2022
+Grand Prize,1,A-3687625,1,Jackpot,7317,Paul B.,29,6,2022

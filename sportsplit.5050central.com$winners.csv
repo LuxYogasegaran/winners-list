@@ -1,0 +1,6 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,1004180,1,Jackpot,1742.50,,2,1,2022
+Grand Prize,2,1001404,1,Jackpot,1617.50,,3,1,2022
+Grand Prize,3,1000120,1,Jackpot,2322.50,,4,1,2022
+Grand Prize,4,1002812,1,Jackpot,1745,,5,1,2022
+Grand Prize,5,1006165,1,Jackpot,2350.50,,5,1,2022

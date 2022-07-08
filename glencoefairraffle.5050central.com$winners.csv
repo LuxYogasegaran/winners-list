@@ -1,6 +1,8 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,3254092,2,$1000,0,Anja Zwambag,12,8,2021
+Early Bird,1,3254092,2,$1000,0,Anja Zwambag from Glencoe,12,8,2021
 Early Bird,2,7396674,2,$1000,0,-,26,8,2021
 Early Bird,3,8026983,2,$1000,0,-,9,9,2021
-Grand Prize,3,1966979,1,Jackpot,68115,Roland McAlpine,24,9,2021
-Early Bird,4,9992638,2,$250 McNaughton's Home Hardware gift card,0,Tim Kellerman,28,6,2022
+Grand Prize,3,1966979,1,Jackpot,68115,Roland McAlpine from Glencoe,24,9,2021
+Early Bird,4,9992638,2,$250 McNaughton's Home Hardware gift card,0,Tim Kellerman from Thorndale,28,6,2022
+Early Bird,4,5548101,2,$250 gift certificate to Redberry Gardens,0,Anonymous,30,6,2022
+Early Bird,4,2436279,2,$250 Glencoe Ace Country & Garden gift card,0,Anonymous,7,7,2022

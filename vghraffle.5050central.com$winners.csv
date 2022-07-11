@@ -1,0 +1,17 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,Q-3432522,1,Jackpot,20660,Vanessa Bastos,4,2,2022
+Early Bird,2,R-5036680,2,$250,0,Lambros Kyriakakos,15,2,2022
+Early Bird,2,R-3468501,2,$500,0,Robbie MacDonals,22,2,2022
+Grand Prize,2,R-6634447,1,Jackpot,18240,Viktor Najafov,4,3,2022
+Early Bird,3,S-5350912,2,$500,0,Roger Comeault,15,3,2022
+Early Bird,3,S-4730868,2,$250,0,Dr. Reynaldo D. Pagtakhan,22,3,2022
+Grand Prize,3,S-5096455,1,Jackpot,15305,Ginette Volpato,31,3,2022
+Early Bird,4,T-4090499,2,$500,0,Merilyn Canlas,12,4,2022
+Early Bird,4,T-4498487,2,$250,0,Pauline Pellack,19,4,2022
+Grand Prize,4,T-3321198,1,Jackpot,15505,Darlene Wiebe,2,5,2022
+Early Bird,5,U-1451056,2,$500,0,Joan Lannoo,10,5,2022
+Early Bird,5,U-5622430,2,$250,0,Patti Hooker,17,5,2022
+Grand Prize,5,U-6202348,1,Jackpot,15125,Kathy McAulay,6,6,2022
+Early Bird,6,V-3097796,2,$500,0,Monica Carranza,14,6,2022
+Early Bird,6,V-2244632,2,$250,0,Elmer Aquino,21,6,2022
+Grand Prize,6,V-7263331,1,Jackpot,7370,M. Jacob Schellenberg,4,7,2022

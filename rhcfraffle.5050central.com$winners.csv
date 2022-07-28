@@ -1,6 +1,6 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,N-5062709,1,Jackpot,37650,Roanna Jourdain,31,12,2021
-Early Bird,2,0-8297117,2,$500,0,Sharon Larocque,12,1,2022
+Early Bird,2,O-8297117,2,$500,0,Sharon Larocque,12,1,2022
 Grand Prize,2,O-5775889,1,Jackpot,17870,Amanda LaLonde,31,1,2022
 Early Bird,3,P-5086754,2,$500,0,Carrie Brown,16,2,2022
 Grand Prize,3,P-7774297,1,Jackpot,13955,Kelly-Rae Calder,28,2,2022

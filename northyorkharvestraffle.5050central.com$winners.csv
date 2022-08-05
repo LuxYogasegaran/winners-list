@@ -1,5 +1,6 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,NYH-1292176,2,$500,0,-,12,11,2021
 Grand Prize,1,NYH-3850245,1,Jackpot,865,Benjamin,3,12,2021
-Early Bird,1,NYH-4427123,2,$500,0,Carrie,27,5,2022
-Grand Prize,1,NYH-4730621,1,Jackpot,2430,Carrie,10,6,2022
+Early Bird,2,NYH-4427123,2,$500,0,Carrie,27,5,2022
+Grand Prize,2,NYH-4730621,1,Jackpot,2430,Carrie,10,6,2022
+Early Bird,3,NYH-5974334,2,$250,0,TBD,5,8,2022

@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,A-7293079,1,Jackpot,220,Doris Smith,24,6,2022
 Early Bird,2,B-5962024,2,$246,0,Carolyn S.,22,7,2022
+Grand Prize,1,B-8293937,1,Jackpot,180,Carolyn S.,12,8,2022

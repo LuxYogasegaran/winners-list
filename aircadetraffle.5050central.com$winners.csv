@@ -1,3 +1,4 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,B-6624809,1,Jackpot,1050,Sarah D.,27,1,2022
 Grand Prize,2,B-1445723,1,Jackpot,2045,Stanton M.,24,2,2022
 Grand Prize,3,B-6807812,1,Jackpot,1565,Marius B.,31,3,2022

@@ -1,3 +1,5 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,A-47382915,2,$1000,0,John D.,8,7,2022
-Grand Prize,1,A-00984627,1,Jackpot,827373,Carles M.,30,7,2022
+vs. Seahawks,1,A-3300035,1,Jackpot,2105,,29,11,2021
+at Raiders,2,B-1815153,1,Jackpot,300,,5,12,2021
+vs. Cowboys,3,E-3047714,1,Jackpot,35180,,12,12,2021
+vs. Eagles,4,F-6839565,1,Jackpot,17290,,2,1,2021

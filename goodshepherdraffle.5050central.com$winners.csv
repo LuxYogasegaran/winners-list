@@ -1,3 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,A-2674871,2,$1000,0,Carolyn Lupton,5,5,2022
 Grand Prize,1,A-4882578,1,Jackpot,9475,Dorothy Loosemore,20,5,2022
+Early Bird,2,B-5462535,2,$500,0,Harold Ross,16,9,2022

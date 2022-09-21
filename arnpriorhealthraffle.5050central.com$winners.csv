@@ -1,4 +1,4 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear     
+EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
 Week 1,1,A-1505709,366,6 of Hearts,sixh,30,Thomas H.,20,7,2022
 Week 2,2,B-3234601,210,Queen of Diamonds,queend,17,Tammy K.,27,7,2022
 Week 3,3,C-2012856,196,10 of Hearts,tenh,23,Julie F.,3,8,2022

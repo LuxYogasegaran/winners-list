@@ -1,2 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Early Bird,1,2175532,2,$1000,0,Judith Weglage,9,9,2022
+Grand Prize,1,3845976,1,Jackpot,11125,Gerad Miller,28,9,2022

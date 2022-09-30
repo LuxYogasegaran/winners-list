@@ -1,0 +1,7 @@
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Grand Prize,1,J-7425644,1,Jackpot,49125, Magda S.,30,9,2021
+Grand Prize,2,K-3819557,1,Jackpot,56872,Trudy Bray,30,10,2021
+Grand Prize,3,L-10748369,1,Jackpot,162022,Sherrel Robertson,30,1,2022
+Grand Prize,4,AFF-2465661,1,Jackpot,86440,Myra McDougall,30,7,2022
+Grand Prize,5,BFF-1603572,1,Jackpot,47410,Paulette.V Plante,30,8,2022
+Grand Prize,6,CFF-2273693,1,Jackpot,40390,Peter MacMillan,30,9,2022

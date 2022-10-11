@@ -1,2 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
 Grand Prize,1,A-7098236,1,Jackpot,7630,Kristen Tohe,15,4,2022
+Early Bird,2,B-4267929,2,$500,0,Melvin Willie,8,10,2022

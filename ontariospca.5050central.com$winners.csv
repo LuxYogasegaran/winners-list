@@ -1,2 +1,3 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear,PrizeImageUrl
 Early Bird #1,1,A-2557108,2,$500,0,Theresa S.,7,10,2022,https://d13m0opjvmhh86.cloudfront.net/prize-Image-earlybird1-oct6.jpg
+Early Bird #2,1,A-1232057,2,$500,0,TBD,21,10,2022,https://d13m0opjvmhh86.cloudfront.net/prize-27-Prize-Image_earlybird2-oct20.jpg

@@ -1,1 +1,2 @@
-EventTitle,EventNo,TicketNo,PrizeAmount,CardName,CardCode,CardPosition,Name,DrawDay,DrawMonth,DrawYear
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,CK-9228098,2,Night at the RetroSuites and $50 Chilled Cork Gift Card,0,TBD,27,10,2022

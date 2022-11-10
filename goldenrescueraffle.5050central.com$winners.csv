@@ -1,35 +1,4 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Early Bird,1,D-8567748,2,$500 Cash,0,Jane Field D.,20,9,2021
-Grand Prize,1,D-6175945,1,$3950,0,Edith Hollingsworth,1,10,2021
-Early Bird,2,E-1817509,1,$100 Golden Rescue Store Gift Certificate,0,Edith Hollingsworth,1,10,2021
-Early Bird,2,E-8458341,2,$500 Cash sponsored by FirstMate Pet Foods,0,Kayren Hill,13,10,2021
-Grand Prize,2,E-9160807,1,$3065,0,Robin Wolf,29,10,2021
-Early Bird,3,F-4317302,2,$25 Starbucks Gift Card,0,Mark Goth,8,12,2021
-Early Bird,3,F-3024220,2,$25 Starbucks Gift Card,0,Jana Johnson,8,12,2021
-Early Bird,3,F-3484060,2,$50 Visa Gift Card,0,Fiona Laird,8,12,2021
-Early Bird,3,F-3484060,2,$50 Ultimate Dining Gift Card,0,Fiona Laird,15,12,2021
-Early Bird,3,F-6196601,2,$50 Starbucks Gift Card,0,Elizabeth Farquharson,15,12,2021
-Early Bird,3,F-4673923,2,$50 Visa Gift Card,0,Shirley Gadd,15,12,2021
-Early Bird,3,F-9627346,2,$100 Home Depot Gift Card,0,Linda Young,15,12,2021
-Early Bird,3,F-2010968,2,$100 Tiny Green Paw Certificate,0,Nadine Marshall,15,12,2021
-Early Bird,3,F-9111654,2,$150 Canadian Tire Gift Card,0,Frank Barry,22,12,2021
-Early Bird,3,F-7579923,2,$200 Gift Certificate from Golden Rescue Online Store,0,Catherine Baker,22,12,2021
-Early Bird,3,F-9520859,2,$250 Amazon Gift Card,0,Laura Taylor,22,12,2021
-Early Bird,3,F-1977953,2,$500 Cash,0,Diane Fleming,22,12,2021
-Grand Prize,2,F-1534354,1,$8710,0,Chris Bauer,31,12,2021
-Early Bird,4,G-8912008,2,$25 Tim Horton's Gift Card,0,Robyne Ahmed,28,1,2022
-Early Bird,4,G-9697853,2,$50 Ultimate Dining Gift Card,0,Joanne Bedding,28,1,2022
-Early Bird,4,G-85515331,2,$100 Amazon Gift Card,0,Samantha Patchell,9,2,2022
-Early Bird,4,G-9822171,2,$75 Canadian Tire Gift Card,0,Edith Hollingsworth,9,2,2022
-Grand Prize,4,G-5266823,1,$7620,0,Heidi McBratney,25,2,2022
-Early Bird,5,H-3900208,2,$25 McDonalds Gift Card,0,TBD,30,3,2022
-Early Bird,5,H-4304120,2,$25 Tim Hortons Gift Card,0,Cheryl Hunter,6,4,2022
-Early Bird,5,H-3266842,2,$50 PC Gift Card,0,Donna Bennett,13,4,2022
-Early Bird,5,H-5490737,2,$250,0,Lisa Knox,20,4,2022
-Early Bird,5,H-9525692,2,$250,0,Jeff James,27,4,2022
-Grand Prize,5,H-8237912,1,$5605,0,Pat Gareau,29,4,2022
-Early Bird,6,I-12477952,2,$25 Starbucks Gift Card,0,Brenda Griffiths-Nanacsik,27,5,2022
-Early Bird,6,I-8290478,2,$50 Indigo Gift Card,0,Jolanda Small,27,5,2022
 Early Bird,6,I-4215043,2,$25 Amazon Gift Card,0,Kevin Wood,15,6,2022
 Early Bird,6,I-1359297,2,$50 Esso Gift Card,0,Kevin Mclaughlin,15,6,2022
 Early Bird,6,I-2537746,2,$100 Home Depot Gift Card,0,Fiona Laird,15,6,2022

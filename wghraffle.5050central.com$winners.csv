@@ -1,8 +1,8 @@
 EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
-Grand Prize,1,P-3304684,1,Jackpot,75035,Jill Ward,31,5,2022
+Grand Prize,1,P-3304684,1,Jackpot,75035,Jill Ward,30,5,2022
 Grand Prize,2,Q-6562178,1,Jackpot,56685,Deb Kovachik,30,6,2022
-Grand Prize,3,S-7750649,1,Jackpot,61015,Carol Browett,31,7,2022
-Grand Prize,4,T-4743249,1,Jackpot,59708,Dino Jose,31,8,2022
+Grand Prize,3,S-7750649,1,Jackpot,61015,Carol Browett,30,7,2022
+Grand Prize,4,T-4743249,1,Jackpot,59708,Dino Jose,30,8,2022
 Grand Prize,5,U-2138286,1,Jackpot,53235,Garfield Scott,30,9,2022
-Grand Prize,6,V-1785874,1,Jackpot,47280,Mary Swan,31,10,2022
-Grand Prize,7,W-6490664,1,Jackpot,77752,TBD,31,11,2022  
+Grand Prize,6,V-1785874,1,Jackpot,47280,Mary Swan,30,10,2022
+Grand Prize,7,W-6490664,1,Jackpot,77752,TBD,30,11,2022  

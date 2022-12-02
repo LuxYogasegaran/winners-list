@@ -1,1 +1,2 @@
-
+EventTitle,EventNo,TicketNo,PrizeTypeId,PrizeTitle,PrizeAmount,Name,DrawDay,DrawMonth,DrawYear
+Early Bird,1,A-2140189,2,$500,0,Theresa H.,2,12,2022
